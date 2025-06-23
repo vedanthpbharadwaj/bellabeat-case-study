@@ -69,7 +69,7 @@ Data sourced from the public [Fitbit Fitness Tracker Data](https://www.kaggle.co
 
 ## 📄 Deliverables
 
-- 📂 [`Bellabeat_Case_Study_Final_With_ACT.Rmd`](./Bellabeat_Case_Study_Final_With_ACT.Rmd): Full R Markdown source
+- 📂 [`Bellabeat_Case_Study.Rmd`](./Bellabeat_Case_Study.Rmd): Full R Markdown source
 - 🌐 HTML Report: *Knit this Rmd to generate a polished HTML presentation of the project*
 
 ---
