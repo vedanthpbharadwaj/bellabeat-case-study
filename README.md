@@ -52,6 +52,27 @@ Data sourced from the public [Fitbit Fitness Tracker Data](https://www.kaggle.co
    Most users are active from **7–11 AM** and **5–7 PM**, which can inform notification and content timing.
 
 ---
+## 📊 Key Visualizations
+
+### 🔵 Steps vs Calories Burned
+![Steps vs Calories](steps_calories.png)
+
+### 🟠 Very Active Minutes vs Calories
+![Active Minutes vs Calories](activemins_calories.png)
+
+### 🟢 Sleep Duration vs Steps
+![Sleep vs Steps](steps_sleep.png)
+
+### 🟣 Calories Burned vs Sleep Duration (Next Day)
+![Calories vs Sleep](sleep_calories.png)
+
+### ⏰ Average Steps by Hour
+![Steps by Hour](steps_hours.png)
+
+### 🔴 Average Calories Burned by Hour
+![Calories by Hour](calories_hours.png)
+
+---
 
 ## 🎯 Product Recommendations
 
